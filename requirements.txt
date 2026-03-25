@@ -1,6 +1,6 @@
 streamlit
 pandas
-pycaret==3.3.2
+pycaret
 plotly
 instructor
 openai
